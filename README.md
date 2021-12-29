@@ -1,0 +1,2 @@
+## Auto_Indexer
+Using custom string and custom templated vector class I created, the project traverses the textbook file and creates a formatted index of the bracketed terms or phrases that appear throughout the file, along with their respective page numbers. *future additional functionality: compensate for edge case of words existing on multiple pages as well as nesting of words more than "one level" deep*
